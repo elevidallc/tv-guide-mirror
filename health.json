@@ -1,0 +1,172 @@
+{
+ "pp-live:sktech~mf76a378f305bc6dc5cbd431e0ff0bf76334ec6a1": {
+  "name": "CNN",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~m8ddf9e0783e0572f81e7c7b5bc60106fe8ba736f": {
+  "name": "CNN International",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~mffee9f89725e68850de9b6bc7bd88c55083e0335": {
+  "name": "MSNBC",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~c2350afc517ed866487ba0dbab08bf0277fee0449": {
+  "name": "Fox News",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~m2ebfdafff80621976ca689fb4f0d6aad81ab7a26": {
+  "name": "NBC News NOW",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~m041b6f5ef6adbbc3c0f8b274268a60511f859c36": {
+  "name": "ABC News Live 3",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~c0d4b166f8d0fb93af80e253711e3d1978b47c333": {
+  "name": "News Nation",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~m0717a47fa4b6b763df125f5a06a0d00966be5383": {
+  "name": "Newsmax",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~2187356": {
+  "name": "BBC News Channel",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~mc12d83c367fac20ba1a6f8567694852b59a4fecc": {
+  "name": "Bloomberg TV US",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~m8904990f8858c11f81e375d2864a30747a2fde78": {
+  "name": "Al Jazeera",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:daddylive~m4bcbcdbb25fd0e71fd8cf140289c07542fcdc35a": {
+  "name": "Euronews English",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~3171495": {
+  "name": "C-SPAN 1",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~m804ba2e7ef4aa07f007ec034cdfdcd83a8e83229": {
+  "name": "Fox Weather",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~m9256ea51b9d633970068380e99dd3c23a22cb842": {
+  "name": "The Weather Channel",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~1355232": {
+  "name": "RTP1",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~5880320": {
+  "name": "RTP2",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~5969668": {
+  "name": "RTP3",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~3327517": {
+  "name": "SIC",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~mcf10b07c05c4e197dba1aa3ea651fdd077034050": {
+  "name": "TVI",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:famelack~f9554486151058d2b8ff617d922429b927ddc3540": {
+  "name": "TVI Reality",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~mb7192b6317b90a3fe27b2275f7b90982a0183f44": {
+  "name": "CMTV",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~mccf8e0f85811fd01ae058edae2e6e1a7994539b5": {
+  "name": "Porto Canal",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~m0a753f55c4324fc1586bcc858d9b95640fba495d": {
+  "name": "+MaisUm",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~mc84ede02acd348a0c99e7c8602e829c8205d1f48": {
+  "name": "AXN Movies Portugal",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~c4cae75947c3d394f0f043adb8485bc35e7069503": {
+  "name": "Sport TV 1",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~c9565961bf861192e4a891a9134065f7f31a96519": {
+  "name": "Sport TV 2",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~c5d4b9ecf7241c14fb7c7e4487bcb037f6fa44258": {
+  "name": "Sport TV 3",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sportsbite~spt4": {
+  "name": "Sport TV 4",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sportsbite~spt5": {
+  "name": "Sport TV 5",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sportsbite~spt6": {
+  "name": "Sport TV 6",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:aksports~m4373232f362055018d22cff6eccf7e554e33c104": {
+  "name": "Sport TV 7",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ },
+ "pp-live:sktech~cf056848885b0b6bdca2f24b86ed2c3f713882159": {
+  "name": "Benfica TV",
+  "down_days": 0,
+  "checked": "2026-10-26"
+ },
+ "pp-live:cinevid~1256247": {
+  "name": "Sporting TV",
+  "down_days": 1,
+  "checked": "2026-10-26"
+ }
+}

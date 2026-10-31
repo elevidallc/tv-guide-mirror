@@ -1,0 +1,56 @@
+name: My Channels daily check
+
+on:
+  schedule:
+    - cron: "30 11 * * *"   # 7:30 AM ET (EDT) / 6:30 AM ET (EST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: channel-check
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Load previous results
+        run: |
+          git fetch -q origin channel-health || true
+          git show origin/channel-health:health.json > health.json 2>/dev/null || echo '{}' > health.json
+
+      - name: Check every channel
+        env:
+          PENGU_URL: ${{ secrets.PENGU_URL }}
+        run: python my-channels/check.py
+
+      - name: Save new channel IDs
+        run: |
+          git diff --quiet -- my-channels/catalog && exit 0
+          git config user.name "channel-check-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add my-channels/catalog
+          git commit -q -m "My Channels: update rotated channel IDs ($(date -u +%F))"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
+
+      - name: Save results
+        run: |
+          mkdir /tmp/h && cp health.json /tmp/h/ && cd /tmp/h
+          git init -q -b channel-health
+          git config user.name "channel-check-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add health.json && git commit -q -m "Health $(date -u +%F)"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" channel-health
+
+      - name: Email an alert
+        if: hashFiles('alert.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "My Channels: channel down ($(date -u +%F))" --body-file alert.md
+          exit 1

@@ -1,0 +1,53 @@
+{
+ "id": "local.tiago.mychannels",
+ "version": "1.1.0",
+ "name": "My Channels",
+ "description": "Hand-picked news + Portuguese channels (streams via PenguPlay) + free official news streams",
+ "resources": [
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "tv"
+   ],
+   "idPrefixes": [
+    "mynews-"
+   ]
+  },
+  {
+   "name": "stream",
+   "types": [
+    "tv"
+   ],
+   "idPrefixes": [
+    "mynews-"
+   ]
+  }
+ ],
+ "types": [
+  "tv"
+ ],
+ "idPrefixes": [
+  "mynews-"
+ ],
+ "catalogs": [
+  {
+   "type": "tv",
+   "id": "my-news",
+   "name": "News"
+  },
+  {
+   "type": "tv",
+   "id": "my-news-free",
+   "name": "News (Free)"
+  },
+  {
+   "type": "tv",
+   "id": "my-portugal",
+   "name": "Portugal"
+  }
+ ],
+ "behaviorHints": {
+  "configurable": false
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "mynews-abc-news-live": {
+  "name": "ABC News Live",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-al-jazeera": {
+  "name": "Al Jazeera English",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-bbc-news": {
+  "name": "BBC News",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-bloomberg": {
+  "name": "Bloomberg TV+",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-cbs-news": {
+  "name": "CBS News 24/7",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-cnn-evenings": {
+  "name": "CNN (US shows evenings)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-cnn-headlines": {
+  "name": "CNN Headlines",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-euronews": {
+  "name": "Euronews English",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-fox-weather": {
+  "name": "FOX Weather",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-livenow-fox": {
+  "name": "LiveNOW from FOX",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-nbc-news-now": {
+  "name": "NBC News NOW",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-euronews": {
+  "name": "Euronews Portugu\u00eas",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-portocanal": {
+  "name": "Porto Canal",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-rtp1": {
+  "name": "RTP1",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-rtp2": {
+  "name": "RTP2",
+  "down_days": 1,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-rtp3": {
+  "name": "RTP3 (RTP Not\u00edcias)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-rtpafrica": {
+  "name": "RTP \u00c1frica",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-pt-rtpi": {
+  "name": "RTP Internacional",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-scripps-news": {
+  "name": "Scripps News",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sky-news": {
+  "name": "Sky News",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sp-bein-xtra": {
+  "name": "beIN SPORTS XTRA",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sp-cbs-sports-hq": {
+  "name": "CBS Sports HQ",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sp-fox-sports": {
+  "name": "FOX Sports",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sp-nbc-sports-now": {
+  "name": "NBC Sports NOW",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-sp-tennis-2": {
+  "name": "Tennis Channel 2",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-amc-thrillers": {
+  "name": "AMC Thrillers",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-bbc-food": {
+  "name": "BBC Food",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-bobby-flay": {
+  "name": "Bobby Flay (Food Network)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-bravo-vault": {
+  "name": "Bravo Vault",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-chef-vs-chef": {
+  "name": "Chef vs Chef (Food Network)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-comedy-central": {
+  "name": "Comedy Central",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-dateline": {
+  "name": "Dateline 24/7",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-delicious-eats": {
+  "name": "Delicious Eats (Food Network)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-first-48": {
+  "name": "The First 48",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-hallmark": {
+  "name": "Hallmark Movies & More",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-home-cooking": {
+  "name": "Home Cooking (Food Network)",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-lifetime-movies": {
+  "name": "Lifetime Movies",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-mtv": {
+  "name": "MTV",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-paramount-movies": {
+  "name": "Paramount Movies",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-pawn-stars": {
+  "name": "Pawn Stars",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-pbs-nature": {
+  "name": "PBS Nature",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-rh-vault": {
+  "name": "Real Housewives Vault",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-storage-wars": {
+  "name": "Storage Wars",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "mynews-tv-tasty": {
+  "name": "Tasty",
+  "down_days": 0,
+  "checked": "2026-11-14"
+ },
+ "pp-live:cinevid~2187356": {
+  "name": "BBC News Channel",
+  "down_days": 13,
+  "checked": "2026-11-14"
+ },
+ "pp-live:cinevid~3171495": {
+  "name": "C-SPAN 1",
+  "down_days": 12,
+  "checked": "2026-11-14"
+ },
+ "pp-live:cinevid~5880320": {
+  "name": "RTP2 (backup)",
+  "down_days": 13,
+  "checked": "2026-11-14"
+ },
+ "pp-live:cinevid~3327517": {
+  "name": "SIC",
+  "down_days": 13,
+  "checked": "2026-11-14"
+ },
+ "pp-live:cinevid~1256247": {
+  "name": "Sporting TV",
+  "down_days": 13,
+  "checked": "2026-11-14"
+ }
+}

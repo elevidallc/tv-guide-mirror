@@ -1,0 +1,46 @@
+name: Build playlists + guides
+
+on:
+  schedule:
+    - cron: "17 3,15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tvgm-main
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build per-country playlists and merged guides
+        run: |
+          set -euo pipefail
+          rm -rf playlists guides README.md
+          python build.py
+          ls -la playlists guides
+          for f in guides/*.xml; do tail -c 50 "$f" | grep -q "</tv>" || { echo "$f truncated"; exit 1; }; done
+      - name: Publish as a single-commit history
+        # Rebuild on top of the LATEST main so pushes made during the build
+        # (my-channels edits, channel-check swaps) are kept, not wiped.
+        run: |
+          set -euo pipefail
+          git config user.name "tv-guide-mirror-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mv playlists guides README.md "$RUNNER_TEMP"/
+          git fetch -q origin main
+          lease=$(git rev-parse origin/main)
+          git reset -q --hard "$lease"
+          git checkout -q --orphan rebuilt
+          rm -rf playlists guides README.md
+          mv "$RUNNER_TEMP"/playlists "$RUNNER_TEMP"/guides "$RUNNER_TEMP"/README.md .
+          git add -A
+          git commit -q -m "Rebuild $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q --force-with-lease=main:"$lease" origin rebuilt:main

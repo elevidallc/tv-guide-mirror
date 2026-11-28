@@ -1,0 +1,166 @@
+{
+ "metas": [
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgQ05OIFBPUlRVR0FMIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMTk4NDkzLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS9iYzZ0WVZaLnBuZyIsInNlY3Rpb24iOiJHRVJBTCBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "CNN Portugal",
+   "poster": "https://i.imgur.com/bc6tYVZ.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/bc6tYVZ.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU0lDIE5PVElDSUFTIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzA3NDEubTN1OCIsImxvZ28iOiJodHRwczovL2kuaW1ndXIuY29tL0dpNlEyNk0ucG5nIiwic2VjdGlvbiI6IkdFUkFMIEZIRCIsImFkdWx0IjpmYWxzZX0=",
+   "type": "tv",
+   "name": "SIC Notícias",
+   "poster": "https://i.imgur.com/Gi6Q26M.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/Gi6Q26M.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU0lDIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzA2NTAubTN1OCIsImxvZ28iOiJodHRwczovL2kuaW1ndXIuY29tL1NQTXFpREcucG5nIiwic2VjdGlvbiI6IkdFUkFMIEZIRCIsImFkdWx0IjpmYWxzZX0=",
+   "type": "tv",
+   "name": "SIC",
+   "poster": "https://i.imgur.com/SPMqiDG.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/SPMqiDG.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgUlRQIDEgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMDY0Ny5tM3U4IiwibG9nbyI6Imh0dHBzOi8vY2RuLWltYWdlcy5ydHAucHQvY29tbW9uL2ltZy9jaGFubmVscy9sb2dvcy9jb2xvci9ob3Jpem9udGFsL3J0cDFfMjAyNi5wbmciLCJzZWN0aW9uIjoiR0VSQUwgRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "RTP 1",
+   "poster": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
+   "posterShape": "landscape",
+   "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgUE9SVE8gQ0FOQUwgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMDY1Ni5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vRHd6aXdNWS5wbmciLCJzZWN0aW9uIjoiR0VSQUwgRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Porto Canal",
+   "poster": "https://i.imgur.com/DwziwMY.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/DwziwMY.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgMSBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMwNjg5Lm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS9ZV2ljMzZ1LnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "Sport TV 1",
+   "poster": "https://i.imgur.com/YWic36u.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/YWic36u.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgMiBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMwNjkwLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS8walNSNnlHLnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "Sport TV 2",
+   "poster": "https://i.imgur.com/0jSR6yG.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/0jSR6yG.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgMyBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMwNjkxLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS82RHczR1V4LnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "Sport TV 3",
+   "poster": "https://i.imgur.com/6Dw3GUx.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/6Dw3GUx.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgNCBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMwNjkyLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS9tSmxiVmZXLnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "Sport TV 4",
+   "poster": "https://i.imgur.com/mJlbVfW.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/mJlbVfW.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgNSBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMwNjkzLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmltZ3VyLmNvbS80dzR2dWFkLnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "Sport TV 5",
+   "poster": "https://i.imgur.com/4w4vuad.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/4w4vuad.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgNiBGSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzE2Mzk4My5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vcW1sUWt5SS5wbmciLCJzZWN0aW9uIjoiREVTUE9SVE8gRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Sport TV 6",
+   "poster": "https://i.imgur.com/qmlQkyI.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/qmlQkyI.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgNyBIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMjM0MS5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vMkhtQ0FtNS5wbmciLCJzZWN0aW9uIjoiREVTUE9SVE8gIEhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Sport TV 7",
+   "poster": "https://i.imgur.com/2HmCAm5.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/2HmCAm5.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYrIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzA2OTQubTN1OCIsImxvZ28iOiJodHRwczovL2kuaW1ndXIuY29tL1I1RlpFVzYucG5nIiwic2VjdGlvbiI6IkRFU1BPUlRPIEZIRCIsImFkdWx0IjpmYWxzZX0=",
+   "type": "tv",
+   "name": "Sport TV+",
+   "poster": "https://i.imgur.com/R5FZEW6.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/R5FZEW6.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlQgVFYgTkJBIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzA2OTUubTN1OCIsImxvZ28iOiJodHRwczovL2xvMS5pbi9wb3Ivc3B0dm5iYS5wbmciLCJzZWN0aW9uIjoiREVTUE9SVE8gRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Sport TV NBA",
+   "poster": "https://lo1.in/por/sptvnba.png",
+   "posterShape": "landscape",
+   "logo": "https://lo1.in/por/sptvnba.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgQ0FOQUwgMTEgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMDY4OC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vbWJRQ0dtNS5wbmciLCJzZWN0aW9uIjoiREVTUE9SVE8gRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Canal 11",
+   "poster": "https://i.imgur.com/mbQCGm5.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/mbQCGm5.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgQlRWIDEgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMDcwNC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vbG8xLmluL3Bvci9idHYxLnBuZyIsInNlY3Rpb24iOiJERVNQT1JUTyBGSEQiLCJhZHVsdCI6ZmFsc2V9",
+   "type": "tv",
+   "name": "BTV (Benfica TV)",
+   "poster": "https://lo1.in/por/btv1.png",
+   "posterShape": "landscape",
+   "logo": "https://lo1.in/por/btv1.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgU1BPUlRJTkcgVFYgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMDcwNy5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vR09sTmZUby5wbmciLCJzZWN0aW9uIjoiREVTUE9SVE8gRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+   "type": "tv",
+   "name": "Sporting TV",
+   "poster": "https://i.imgur.com/GOlNfTo.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/GOlNfTo.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  },
+  {
+   "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJQVHwgQSBCT0xBIFRWIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzA2NjEubTN1OCIsImxvZ28iOiJodHRwczovL2kuaW1ndXIuY29tL0lQMU5XZUEucG5nIiwic2VjdGlvbiI6IkRFU1BPUlRPIEZIRCIsImFkdWx0IjpmYWxzZX0=",
+   "type": "tv",
+   "name": "A Bola TV",
+   "poster": "https://i.imgur.com/IP1NWeA.png",
+   "posterShape": "landscape",
+   "logo": "https://i.imgur.com/IP1NWeA.png",
+   "description": "Favorite · via CNCVerse (Clown IPTV)"
+  }
+ ]
+}

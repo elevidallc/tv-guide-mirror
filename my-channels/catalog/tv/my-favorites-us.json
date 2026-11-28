@@ -1,0 +1,184 @@
+{
+  "metas": [
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQ05OIEZIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvNTg5MS5tM3U4IiwibG9nbyI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xvZ28vNjE0OWUzNWFjOTQ3MzI5Zi5wbmc_dT1odHRwcyUzQSUyRiUyRnVwbG9hZC53aWtpbWVkaWEub3JnJTJGd2lraXBlZGlhJTJGY29tbW9ucyUyRnRodW1iJTJGYiUyRmIxJTJGQ05OLnN2ZyUyRjk2MHB4LUNOTi5zdmcucG5nJmY9aHR0cHMlM0ElMkYlMkZsbzEuaW4lMkZjYSUyRmNubm4ucG5nIiwic2VjdGlvbiI6IlVTQXwgTkVXUyIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "CNN",
+      "poster": "https://sxcce.dpdns.org/logo/6149e35ac947329f.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FCNN.svg%2F960px-CNN.svg.png&f=https%3A%2F%2Flo1.in%2Fca%2Fcnnn.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/6149e35ac947329f.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FCNN.svg%2F960px-CNN.svg.png&f=https%3A%2F%2Flo1.in%2Fca%2Fcnnn.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVS3wgQkJDIE5FV1MgRkhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8yOTExMi5tM3U4IiwibG9nbyI6Imh0dHBzOi8vbHRzay1jZG4uczMuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vanVtcHN0YXJ0L1RlbXBfTGl2ZS9jZG4vSExTL0NoYW5uZWwvdHJhbnNwYXJlbnRJbWFnZXMvQkJDLWxvZ29fMjAwMF9YXzExMjVfVHJhbnNwYXJlbnQucG5nIiwic2VjdGlvbiI6IkdFTkVSQUwgRkhEIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "BBC News",
+      "poster": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BBC-logo_2000_X_1125_Transparent.png",
+      "posterShape": "landscape",
+      "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BBC-logo_2000_X_1125_Transparent.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQy1TUEFOIDEgSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMyMjI5Lm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9sbzEuaW4vdXMvY3NwcDEucG5nIiwic2VjdGlvbiI6IlVTQXwgTkVXUyIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "C-SPAN",
+      "poster": "https://lo1.in/us/cspp1.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/cspp1.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRVNQTiAxIEhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMjExNC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xvZ28vNmQxYjkxNTc2OGRhMGM3YS5wbmc_dT1odHRwcyUzQSUyRiUyRnVwbG9hZC53aWtpbWVkaWEub3JnJTJGd2lraXBlZGlhJTJGY29tbW9ucyUyRnRodW1iJTJGMiUyRjJmJTJGRVNQTl93b3JkbWFyay5zdmclMkY5NjBweC1FU1BOX3dvcmRtYXJrLnN2Zy5wbmcmZj1odHRwcyUzQSUyRiUyRmxvMS5pbiUyRnVzJTJGZXNwbisxLnBuZyIsInNlY3Rpb24iOiJFU1BOLVNQT1JUIC4iLCJhZHVsdCI6ZmFsc2V9",
+      "type": "tv",
+      "name": "ESPN",
+      "poster": "https://sxcce.dpdns.org/logo/6d1b915768da0c7a.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FESPN_wordmark.svg%2F960px-ESPN_wordmark.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fespn+1.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/6d1b915768da0c7a.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FESPN_wordmark.svg%2F960px-ESPN_wordmark.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fespn+1.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRVNQTiAyIEhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMjE2NC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vMDB0c3ZqRS5wbmciLCJzZWN0aW9uIjoiRVNQTi1TUE9SVCAuIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "ESPN 2",
+      "poster": "https://i.imgur.com/00tsvjE.png",
+      "posterShape": "landscape",
+      "logo": "https://i.imgur.com/00tsvjE.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRk9YIFNQT1JUUyAxIEhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMjE0MS5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vTzlCYXBWOS5wbmciLCJzZWN0aW9uIjoiTkJDIFNQT1JUIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "FS1",
+      "poster": "https://i.imgur.com/O9BapV9.png",
+      "posterShape": "landscape",
+      "logo": "https://i.imgur.com/O9BapV9.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgTkZMIE5FVFdPUksiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMyMTEwLm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbG9nby8yODE4MTkwYTkyODc5YjMxLnBuZz91PWh0dHBzJTNBJTJGJTJGdXBsb2FkLndpa2ltZWRpYS5vcmclMkZ3aWtpcGVkaWElMkZlbiUyRnRodW1iJTJGOCUyRjhmJTJGTkZMX05ldHdvcmtfbG9nby5zdmclMkY5NjBweC1ORkxfTmV0d29ya19sb2dvLnN2Zy5wbmcmZj1odHRwcyUzQSUyRiUyRmxvMS5pbiUyRnVzJTJGbmdsbm4ucG5nIiwic2VjdGlvbiI6IlVTQXwgU1BPUlRTIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "NFL Network",
+      "poster": "https://sxcce.dpdns.org/logo/2818190a92879b31.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F8%2F8f%2FNFL_Network_logo.svg%2F960px-NFL_Network_logo.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fnglnn.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/2818190a92879b31.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F8%2F8f%2FNFL_Network_logo.svg%2F960px-NFL_Network_logo.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fnglnn.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgTkZMIFJFRFpPTkUgSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzQ5OTQubTN1OCIsImxvZ28iOiJodHRwczovL2kuaW1ndXIuY29tLzVsUHFRajUucG5nIiwic2VjdGlvbiI6IlVTQSBORkwgRVZFTlRTIE9OTFkiLCJhZHVsdCI6ZmFsc2V9",
+      "type": "tv",
+      "name": "NFL RedZone",
+      "poster": "https://i.imgur.com/5lPqQj5.png",
+      "posterShape": "landscape",
+      "logo": "https://i.imgur.com/5lPqQj5.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgVVNBIE5FVFdPUksgRUFTVCBIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMjIxMy5tM3U4IiwibG9nbyI6Imh0dHBzOi8vbG8xLmluL3VzL3Vzdy5wbmciLCJzZWN0aW9uIjoiVVNBfCBFTlRFUlRBSU5NRU5UIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "USA Network",
+      "poster": "https://lo1.in/us/usw.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/usw.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRk9YIDA1IChXTllXKSBORVcgWU9SSyIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzMxMzgubTN1OCIsImxvZ28iOiJodHRwczovL2xvMS5pbi91cy9meGtzYS5wbmciLCJzZWN0aW9uIjoiVVNBLUx8IEZPWCIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "FOX (New York)",
+      "poster": "https://lo1.in/us/fxksa.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/fxksa.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQ0JTIDAyIChXQ0JTKSBORVcgWU9SSyIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzU0NDYubTN1OCIsImxvZ28iOiJodHRwczovL2xvMS5pbi91cy9jYnN3dy5wbmciLCJzZWN0aW9uIjoiVVNBLUx8IENCUyIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "CBS (New York)",
+      "poster": "https://lo1.in/us/cbsww.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/cbsww.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgTkJDIDA0IChXTkJDKSBORVcgWU9SSyIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzMwMTcubTN1OCIsImxvZ28iOiJodHRwczovL2xvMS5pbi91cy9uYmMucG5nIiwic2VjdGlvbiI6IlVTQS1MfCBOQkMiLCJhZHVsdCI6ZmFsc2V9",
+      "type": "tv",
+      "name": "NBC (New York)",
+      "poster": "https://lo1.in/us/nbc.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/nbc.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgSEJPIEVBU1QgSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMyMjA5Lm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbG9nby85ODcxODE0OTkxNDU5MmM3LnBuZz91PWh0dHBzJTNBJTJGJTJGdGh1bWIud2lraW1lZGlhLm9yZyUyRndpa2lwZWRpYSUyRmNvbW1vbnMlMkZ0aHVtYiUyRmQlMkZkMiUyRkhCT19DYW5hZGFfTG9nby5wbmclMkY5NjBweC1IQk9fQ2FuYWRhX0xvZ28ucG5nJmY9aHR0cHMlM0ElMkYlMkZsbzEuaW4lMkZ1c2ElMkZoZWEucG5nIiwic2VjdGlvbiI6Ik1PVklFUyIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "HBO",
+      "poster": "https://sxcce.dpdns.org/logo/98718149914592c7.png?u=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd2%2FHBO_Canada_Logo.png%2F960px-HBO_Canada_Logo.png&f=https%3A%2F%2Flo1.in%2Fusa%2Fhea.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/98718149914592c7.png?u=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd2%2FHBO_Canada_Logo.png%2F960px-HBO_Canada_Logo.png&f=https%3A%2F%2Flo1.in%2Fusa%2Fhea.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRlggSEQiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzM1NDU3Lm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9pLmliYi5jby8zNXdUeGpmRi9JTUctMjQ1MS5wbmciLCJzZWN0aW9uIjoiTU9WSUVTIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "FX",
+      "poster": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
+      "posterShape": "landscape",
+      "logo": "https://i.ibb.co/35wTxjfF/IMG-2451.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQURVTFQgU1dJTSBIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvOTIzODQubTN1OCIsImxvZ28iOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9sb2dvLzliYmY4NGI0NTQ3MWViYWMucG5nP3U9aHR0cHMlM0ElMkYlMkZ1cGxvYWQud2lraW1lZGlhLm9yZyUyRndpa2lwZWRpYSUyRmNvbW1vbnMlMkZ0aHVtYiUyRmUlMkZlNCUyRkFkdWx0X1N3aW1fMjAwM19sb2dvLnN2ZyUyRjk2MHB4LUFkdWx0X1N3aW1fMjAwM19sb2dvLnN2Zy5wbmcmZj1odHRwcyUzQSUyRiUyRmxvMS5pbiUyRnVzJTJGYWRsdC5wbmciLCJzZWN0aW9uIjoiVVNBfCBFTlRFUlRBSU5NRU5UIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "Adult Swim",
+      "poster": "https://sxcce.dpdns.org/logo/9bbf84b45471ebac.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe4%2FAdult_Swim_2003_logo.svg%2F960px-Adult_Swim_2003_logo.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fadlt.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/9bbf84b45471ebac.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe4%2FAdult_Swim_2003_logo.svg%2F960px-Adult_Swim_2003_logo.svg.png&f=https%3A%2F%2Flo1.in%2Fus%2Fadlt.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQ09NRURZIENFTlRSQUwgRUFTVCBIRCIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzE5MzIubTN1OCIsImxvZ28iOiJodHRwczovL2xvMS5pbi91ay9jbWRjZW4ucG5nIiwic2VjdGlvbiI6IlVTQXwgRU5URVJUQUlOTUVOVCIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "Comedy Central",
+      "poster": "https://lo1.in/uk/cmdcen.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/uk/cmdcen.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgRk9PRCBORVRXT1JLIEhEIChFQVNUKSIsInVybCI6Imh0dHBzOi8vc3hjY2UuZHBkbnMub3JnL2xpdmUvMzE5MDEubTN1OCIsImxvZ28iOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9sb2dvL2RiOGIyY2RhZDg2OTAzYjQucG5nP3U9aHR0cHMlM0ElMkYlMkZ1cGxvYWQud2lraW1lZGlhLm9yZyUyRndpa2lwZWRpYSUyRmNvbW1vbnMlMkZ0aHVtYiUyRmYlMkZmOSUyRkZvb2RfTmV0d29ya19OZXdfTG9nby5wbmclMkY5NjBweC1Gb29kX05ldHdvcmtfTmV3X0xvZ28ucG5nJmY9aHR0cHMlM0ElMkYlMkZsbzEuaW4lMkZ1cyUyRmZvb2RuLnBuZyIsInNlY3Rpb24iOiJVU0F8IEVOVEVSVEFJTk1FTlQiLCJhZHVsdCI6ZmFsc2V9",
+      "type": "tv",
+      "name": "Food Network",
+      "poster": "https://sxcce.dpdns.org/logo/db8b2cdad86903b4.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff9%2FFood_Network_New_Logo.png%2F960px-Food_Network_New_Logo.png&f=https%3A%2F%2Flo1.in%2Fus%2Ffoodn.png",
+      "posterShape": "landscape",
+      "logo": "https://sxcce.dpdns.org/logo/db8b2cdad86903b4.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff9%2FFood_Network_New_Logo.png%2F960px-Food_Network_New_Logo.png&f=https%3A%2F%2Flo1.in%2Fus%2Ffoodn.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgQlJBVk8gKEVBU1QpIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMTkzOC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vaS5pbWd1ci5jb20vSm1USVJMRi5wbmciLCJzZWN0aW9uIjoiVVNBfCBHRU5FUkFMIiwiYWR1bHQiOmZhbHNlfQ==",
+      "type": "tv",
+      "name": "Bravo",
+      "poster": "https://i.imgur.com/JmTIRLF.png",
+      "posterShape": "landscape",
+      "logo": "https://i.imgur.com/JmTIRLF.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgVExDIEVBU1QiLCJ1cmwiOiJodHRwczovL3N4Y2NlLmRwZG5zLm9yZy9saXZlLzMxOTA3Lm0zdTgiLCJsb2dvIjoiaHR0cHM6Ly9sbzEuaW4vdXMvdGxjLnBuZyIsInNlY3Rpb24iOiJVU0F8IEVOVEVSVEFJTk1FTlQiLCJhZHVsdCI6ZmFsc2V9",
+      "type": "tv",
+      "name": "TLC",
+      "poster": "https://lo1.in/us/tlc.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/tlc.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    },
+    {
+      "id": "cnc:Q2xvd25JUFRWOjp7Im5hbWUiOiJVU3wgSEdUViBFQVNUIEhEIiwidXJsIjoiaHR0cHM6Ly9zeGNjZS5kcGRucy5vcmcvbGl2ZS8zMTg5NC5tM3U4IiwibG9nbyI6Imh0dHBzOi8vbG8xLmluL3VzL2hndHYucG5nIiwic2VjdGlvbiI6IlVTQXwgRU5URVJUQUlOTUVOVCIsImFkdWx0IjpmYWxzZX0=",
+      "type": "tv",
+      "name": "HGTV",
+      "poster": "https://lo1.in/us/hgtv.png",
+      "posterShape": "landscape",
+      "logo": "https://lo1.in/us/hgtv.png",
+      "description": "Favorite · via CNCVerse (Clown IPTV)"
+    }
+  ]
+}

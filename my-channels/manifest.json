@@ -1,0 +1,48 @@
+{
+  "id": "local.tiago.mychannels",
+  "version": "1.7.1",
+  "name": "My Channels",
+  "description": "Favorites · Portugal + Favorites · US (via CNCVerse). Older rows hidden 2026-11-26; their catalog files stay in the repo.",
+  "resources": [
+    "catalog",
+    {
+      "name": "meta",
+      "types": [
+        "tv"
+      ],
+      "idPrefixes": [
+        "mynews-"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "tv"
+      ],
+      "idPrefixes": [
+        "mynews-"
+      ]
+    }
+  ],
+  "types": [
+    "tv"
+  ],
+  "idPrefixes": [
+    "mynews-"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "my-favorites",
+      "name": "Favorites · Portugal"
+    },
+    {
+      "type": "tv",
+      "id": "my-favorites-us",
+      "name": "Favorites · US"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false
+  }
+}
